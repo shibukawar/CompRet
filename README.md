@@ -33,8 +33,8 @@ $ bash Anaconda3-2019.07-Linux-x86_64.sh
 5. Create python environment
 
 ```
-$ conda create -c rdkit -n shibuchem-env rdkit
-$ conda activate shibuchem-env
+$ conda create -c rdkit -n compret-env rdkit
+$ conda activate compret-env
 $ conda install tqdm
 $ conda install IPython
 $ conda install pydot
