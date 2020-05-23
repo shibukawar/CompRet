@@ -51,12 +51,13 @@ $ git clone https://github.com/connorcoley/scscore.git
 
 7. Prepare your own chemical reaction dataset under ```./reactions``` and building blocks as ```blocks.smi```. ChemAxon provides example set of basic chemical reaction in [their website](https://chemaxon.com/products/reactor/download).
 
+```
 reactions
     |-rxn1.smarts
     |-rxn2.smarts
     |-.
       .
       .
-
+```
 
 8. Edit run_all.sh and run!
