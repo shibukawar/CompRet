@@ -64,4 +64,4 @@ reactions
 
 ## License
 
-This edition of CompRet is for evaluation, learning, and non-profit academic research purposes only, and a license is needed for any other uses. 
+This edition of CompRet is for evaluation, learning, and non-profit academic research purposes only, and a license is needed for any other uses. Please send requests on license or questions to rs1018bio8.utokyo@gmail.com
